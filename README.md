@@ -8,15 +8,7 @@ I am a Cyber Security engineering student. I live in Warsaw and I am 18 years ol
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [contact.algan@gmail.com](mailto:contact.algan@gmail.com)
-* ⚡  Hack The Planet!
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
+* ⚡  Hack The Planet! 
 
 ### Socials
 
