@@ -1,10 +1,10 @@
 Hi 👋 My name is Muhammet ALGAN
 ================================
 
-Cyber Security | Penetration tester | Red Team
+Cybersecurity | Penetration tester | Red Team
 ----------------------------------------------
 
-I am a Cyber Security engineering student. I live in Warsaw and I am 18 years old. I am currently actively improving my penetration testing and ethical hacking skills and sharing vulnerable machine hacking solutions on my YouTube channel. www.youtube.com/@muhammetalgan5362 I also like to be interested in robotics and take part in competitions with my own projects.. I guess I don't have anything else to tell about me, just computers.
+I am a Cybersecurity engineering student. I live in Warsaw and I am 18 years old. I am currently actively improving my penetration testing and ethical hacking skills and sharing vulnerable machine hacking solutions on my YouTube channel. www.youtube.com/@muhammetalgan5362 I also like to be interested in robotics and take part in competitions with my own projects.. I guess I don't have anything else to tell about me, just computers.
 
 * 🌍  I'm based in Poland, Warsaw
 * ✉️  You can contact me at [contact.algan@gmail.com](mailto:contact.algan@gmail.com)
